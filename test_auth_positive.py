@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 import time
 
-link = "C:/edu/test-protei/qa-test.html" # replace the file path with a valid one
+link = " " # replace the file path with a valid one
 
 try:
     browser = webdriver.Chrome()
